@@ -34,11 +34,6 @@ def predict_location(image_path):
 
     return map_url
 
-# Prompt the user for input
-image_path = input("Enter the path to an image file (or a URL): ")
-
-# Call the predict_location function with the user's input
-map_url = predict_location(image_path)
 
 # Print the result
 print(f"The predicted location of the image is: {map_url}")
