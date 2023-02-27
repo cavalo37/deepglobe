@@ -1,5 +1,5 @@
 # deepglobe
-Simple python script using DeepGlobe's CNN model to try and guess the location of an inputted image.
+Simple python script using DeepGlobe's neural network model to try and guess the location of an inputted image.
 
 
 
