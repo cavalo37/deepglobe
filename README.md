@@ -13,7 +13,7 @@ Simple python script using DeepGlobe's neural network model to try and guess the
 
 3. Download the trained DeepGlobe model file from their challenge website (`path_to_model.h5`) and save it in the same directory as your Python file. (The .h5 extension is important)
 
-4. Create a new directory named "templates" in the same directory as your Python file. Inside the "templates" directory, create two HTML files named "upload.html" and "result.html". You can copy the HTML code from the previous answers.
+4. Create a new directory named "templates" in the same directory as your Python file.
 
 5. Run the Python file by running the following command in your terminal or command prompt:
 `python app.py`
